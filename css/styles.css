@@ -1,0 +1,30 @@
+body {
+  font-size: 1.2em;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  display: none;
+}
+
+li[ui-sref]:hover {
+  display: inline-block;
+  cursor: pointer;
+  border: solid #2e6da4 2px;
+  border-radius: 5px;
+  background-color: #337ab7;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  zoom: 150%
+}
+
+.shortName_name {
+  border: solid #2e6da4 2px;
+  border-radius: 5px;
+  background-color: #337ab7;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
